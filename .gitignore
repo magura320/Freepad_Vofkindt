@@ -50,5 +50,4 @@ Backup*
 
 CC2530DB/vofkindt*
 Source/version.c
-!.vscode/
-.vscode/settings.json
+.vscode/
